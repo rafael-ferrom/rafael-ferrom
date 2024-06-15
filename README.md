@@ -16,6 +16,8 @@
 - **Linguagens de Programação:**
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 - **Frameworks e Bibliotecas:**
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -42,9 +44,9 @@ Descrição breve do projeto 3. O que ele faz, quais tecnologias foram usadas, e
 
 ## Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rafael-machado-982a8925b/)
-[![Email](https://img.shields.io/badge/Email-rafaelferromac@gmail.com%40-red)](rafaelferromac@gmail.com)
-
+- **Email**: [rafaelferromac@gmail.com](mailto:rafaelferromac@gmail.com)
+- **GitHub**: [rafael-ferrom](https://github.com/rafael-ferrom)
+- **LinkedIn**: [Rafael Machado](https://www.linkedin.com/in/rafael-machado-982a8925b/)
 ---
 
 
