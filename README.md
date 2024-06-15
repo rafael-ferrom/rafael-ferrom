@@ -28,14 +28,14 @@
 
 ## Projetos Destacados
 
-### [Projeto 1](https://github.com/SeuUsuario/Projeto1)
-Descrição breve do projeto 1. O que ele faz, quais tecnologias foram usadas, e por que é interessante.
+### [Projeto 1](https://github.com/rafael-ferrom/afEstruraDados)
+Projeto onde tem um sistema de gerenciamento de dados utilizando uma Lista Simplesmente Encadeada e uma Árvore Binária de Busca. Ele permite inserir, exibir, buscar e ordenar dados de forma eficiente.
 
-### [Projeto 2](https://github.com/SeuUsuario/Projeto2)
-Descrição breve do projeto 2. O que ele faz, quais tecnologias foram usadas, e por que é interessante.
+### [Projeto 2](https://github.com/rafael-ferrom/sistemaBiblioteca)
+Um projeto onde gerenciamos uma biblioteca podendo realizar empréstimos de livros, projeto onde utilizamos manipulação de ponteiros, alocação dinâmica de memória, structs e arquivos
 
 ### [Projeto 3](https://github.com/SeuUsuario/Projeto3)
-Descrição breve do projeto 3. O que ele faz, quais tecnologias foram usadas, e por que é interessante.
+Um projeto em java onde temos um controle de uma loja onde podemos inserir produtos e realizar compras
 
 ## Estatísticas do GitHub
 
