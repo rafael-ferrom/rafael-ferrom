@@ -9,7 +9,7 @@
 🎓 Estou cursando Engenharia da computação na FACENS.  
 💼 Atualmente, estou em busca do meu primeiro emprego.  
 💻 Tenho interesse em desenvolvimento de software, especialmente com Java e C.  
-📚 Estou sempre aprendendo e explorando novas tecnologias e tendências em desenvolvimento web e back-end.
+📚 Estou sempre aprendendo e explorando novas tecnologias e tendências em desenvolvimento web e back-end e também procuro me adentrar no mundo do hardware e do baixo nível.
 
 ## Habilidades
 
