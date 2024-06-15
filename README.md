@@ -43,7 +43,7 @@ Descrição breve do projeto 3. O que ele faz, quais tecnologias foram usadas, e
 ## Entre em Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rafael-machado-982a8925b/)
-[![Email](https://img.shields.io/badge/Email-seu.email%40dominio.com-red)](rafaelferromac@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rafaelferromac@gmail.com%40dominio.com-red)](rafaelferromac@gmail.com)
 
 ---
 
