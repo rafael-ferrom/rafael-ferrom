@@ -16,8 +16,6 @@
 - **Linguagens de Programação:**
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 - **Frameworks e Bibliotecas:**
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -28,13 +26,13 @@
 
 ## Projetos Destacados
 
-### [Projeto 1](https://github.com/rafael-ferrom/afEstruraDados)
+### [ProjetoEstruturaDeDados](https://github.com/rafael-ferrom/afEstruraDados)
 Projeto onde tem um sistema de gerenciamento de dados utilizando uma Lista Simplesmente Encadeada e uma Árvore Binária de Busca. Ele permite inserir, exibir, buscar e ordenar dados de forma eficiente.
 
-### [Projeto 2](https://github.com/rafael-ferrom/sistemaBiblioteca)
+### [Biblioteca](https://github.com/rafael-ferrom/sistemaBiblioteca)
 Um projeto onde gerenciamos uma biblioteca podendo realizar empréstimos de livros, projeto onde utilizamos manipulação de ponteiros, alocação dinâmica de memória, structs e arquivos
 
-### [Projeto 3](https://github.com/SeuUsuario/Projeto3)
+### [Loja](https://github.com/SeuUsuario/Projeto3)
 Um projeto em java onde temos um controle de uma loja onde podemos inserir produtos e realizar compras
 
 ## Estatísticas do GitHub
