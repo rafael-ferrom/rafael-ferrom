@@ -32,8 +32,8 @@ Projeto onde tem um sistema de gerenciamento de dados utilizando uma Lista Simpl
 ### [Biblioteca](https://github.com/rafael-ferrom/sistemaBiblioteca)
 Um projeto onde gerenciamos uma biblioteca podendo realizar empréstimos de livros, projeto onde utilizamos manipulação de ponteiros, alocação dinâmica de memória, structs e arquivos
 
-### [Loja](https://github.com/SeuUsuario/Projeto3)
-Um projeto em java onde temos um controle de uma loja onde podemos inserir produtos e realizar compras
+### [Project JDBC](https://github.com/rafael-ferrom/ProjectJDBC)
+Este projeto demonstra o padrão de acesso a dados (DAO) usando JDBC em Java. Para cada entidade, há um objeto responsável por fazer o acesso a dados relacionado a esta entidade. A injeção de dependência é feita por meio do padrão de projeto Factory.
 
 ## Estatísticas do GitHub
 
