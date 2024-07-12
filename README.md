@@ -8,14 +8,13 @@
 
 🎓 Estou cursando Engenharia da computação na FACENS.  
 💼 Atualmente, estou em busca do meu primeiro emprego.  
-💻 Tenho interesse em desenvolvimento de software, especialmente com Java e C.  
+💻 Tenho interesse em desenvolvimento de software, especialmente com Java.  
 📚 Estou sempre aprendendo e explorando novas tecnologias e tendências em desenvolvimento web e back-end e também procuro me adentrar no mundo do hardware e do baixo nível.
 
 ## Habilidades
 
 - **Linguagens de Programação:**
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 - **Frameworks e Bibliotecas:**
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
