@@ -25,14 +25,14 @@
 
 ## Projetos Destacados
 
-### [ProjetoEstruturaDeDados](https://github.com/rafael-ferrom/afEstruraDados)
-Projeto onde tem um sistema de gerenciamento de dados utilizando uma Lista Simplesmente Encadeada e uma Árvore Binária de Busca. Ele permite inserir, exibir, buscar e ordenar dados de forma eficiente.
-
 ### [WorkshopSpringBootJpa](https://github.com/rafael-ferrom/workshopSpringBootJpa)
 Esta aplicação RESTful gerencia usuários, pedidos, categorias e produtos, proporcionando uma base sólida para sistemas de e-commerce ou gestão de inventário.
 
 ### [Project JDBC](https://github.com/rafael-ferrom/ProjectJDBC)
 Este projeto demonstra o padrão de acesso a dados (DAO) usando JDBC em Java. Para cada entidade, há um objeto responsável por fazer o acesso a dados relacionado a esta entidade. A injeção de dependência é feita por meio do padrão de projeto Factory.
+
+### [ProjetoEstruturaDeDados](https://github.com/rafael-ferrom/afEstruraDados)
+Projeto onde tem um sistema de gerenciamento de dados utilizando uma Lista Simplesmente Encadeada e uma Árvore Binária de Busca. Ele permite inserir, exibir, buscar e ordenar dados de forma eficiente.
 
 ## Estatísticas do GitHub
 
