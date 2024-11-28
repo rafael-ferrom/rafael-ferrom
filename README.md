@@ -25,14 +25,14 @@
 
 ## Projetos Destacados
 
+### [FElistaGames](https://github.com/rafael-ferrom/FElistaGames)
+Este projeto Desenvolvido com Angular, possui uma interface moderna, responsiva e intuitiva. Implementa formulários para CRUD, listagem interativa e exibe detalhes dos jogos. Utiliza Angular Material para estilização e consumo de APIs REST para sincronização com o back-end.
+
+### [BElistaGames](https://github.com/rafael-ferrom/BElistaGames)
+API RESTful estruturada em camadas, garantindo organização e escalabilidade. Oferece endpoints para operações de CRUD, validação de dados e tratamento de erros. Utiliza o banco H2 para persistência em memória, ideal para desenvolvimento e testes.
+
 ### [WorkshopSpringBootJpa](https://github.com/rafael-ferrom/workshopSpringBootJpa)
 Esta aplicação RESTful gerencia usuários, pedidos, categorias e produtos, proporcionando uma base sólida para sistemas de e-commerce ou gestão de inventário.
-
-### [Project JDBC](https://github.com/rafael-ferrom/ProjectJDBC)
-Este projeto demonstra o padrão de acesso a dados (DAO) usando JDBC em Java. Para cada entidade, há um objeto responsável por fazer o acesso a dados relacionado a esta entidade. A injeção de dependência é feita por meio do padrão de projeto Factory.
-
-### [ProjetoEstruturaDeDados](https://github.com/rafael-ferrom/afEstruraDados)
-Projeto onde tem um sistema de gerenciamento de dados utilizando uma Lista Simplesmente Encadeada e uma Árvore Binária de Busca. Ele permite inserir, exibir, buscar e ordenar dados de forma eficiente.
 
 ## Estatísticas do GitHub
 
